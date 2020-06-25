@@ -3,6 +3,6 @@ package = "./plugins/keep-data-cache"
 
 [[redirects]]
 	from = "/"
-	to = "/ssg/"
+	to = "/sites/"
 	status = 302
 	force = true

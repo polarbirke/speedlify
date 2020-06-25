@@ -1,6 +1,6 @@
 module.exports = {
-	ssg: {
-		description: "Static Site Generator web sites",
+	sites: {
+		description: "Personal favourites",
 		options: {
 			freshChrome: "site"
 		},
@@ -9,6 +9,7 @@ module.exports = {
 			"https://fantasybuchtipps.de/",
 			"https://www.jourmany.de/",
 			"https://sciencefictionbuchtipps.de/",
+			"https://www.eywc2020.eu/en/",
 		]
 	}
 };
